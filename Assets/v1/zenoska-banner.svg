@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <!-- Minimalist Obsidian Canvas -->
+  <rect width="1200" height="320" fill="#090A0F" rx="12" />
+
+  <!-- Centered Minimalist Lockup -->
+  <g transform="translate(600, 110) scale(0.48)">
+    <!-- Outer Breathing Ring -->
+    <circle cx="0" cy="0" r="132" fill="none" stroke="#222530" stroke-width="2.5" />
+
+    <!-- Upper Horizon & Diagonal Stroke (White) -->
+    <path d="M -80,-80 L 76,-80 C 88,-80 96,-70 88,-58 L -52,118 C -60,130 -80,126 -80,110 L -80,95 L 45,-52 L -80,-52 Z" 
+          fill="#FFFFFF" />
+
+    <!-- Lower Horizon & Return Stroke (Gold) -->
+    <path d="M 80,80 L -76,80 C -88,80 -96,70 -88,58 L 52,-118 C 60,-130 80,-126 80,-110 L 80,-95 L -45,52 L 80,52 Z" 
+          fill="#E5C374" />
+
+    <!-- Balance Dot -->
+    <circle cx="0" cy="0" r="6" fill="#FFFFFF" />
+  </g>
+
+  <!-- Wordmark -->
+  <text x="600" y="225" 
+        text-anchor="middle" 
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-size="44" 
+        font-weight="800" 
+        letter-spacing="0.26em" 
+        fill="#FFFFFF">ZENOSKA</text>
+
+  <!-- Single Minimalist Subtitle -->
+  <text x="600" y="265" 
+        text-anchor="middle" 
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-size="12" 
+        font-weight="600" 
+        letter-spacing="0.32em" 
+        fill="#8B8E99">SOVEREIGN MACHINE COGNITION</text>
+</svg>

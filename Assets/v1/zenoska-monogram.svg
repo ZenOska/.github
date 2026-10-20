@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Pure Obsidian Background -->
+  <rect width="512" height="512" rx="112" fill="#090A0F" />
+
+  <!-- Pure Emblem (Scaled to Center) -->
+  <g transform="translate(256, 256) scale(1.15)">
+    <!-- Subtle Outer Ring -->
+    <circle cx="0" cy="0" r="132" fill="none" stroke="#1E212B" stroke-width="2.5" />
+
+    <!-- Upper Horizon & Diagonal Stroke (Pure White) -->
+    <path d="M -80,-80 L 76,-80 C 88,-80 96,-70 88,-58 L -52,118 C -60,130 -80,126 -80,110 L -80,95 L 45,-52 L -80,-52 Z" 
+          fill="#FFFFFF" />
+
+    <!-- Lower Horizon & Return Stroke (Refined Gold Accent) -->
+    <path d="M 80,80 L -76,80 C -88,80 -96,70 -88,58 L 52,-118 C 60,-130 80,-126 80,-110 L 80,-95 L -45,52 L 80,52 Z" 
+          fill="#E5C374" />
+
+    <!-- Center Zen Balance Dot -->
+    <circle cx="0" cy="0" r="6" fill="#FFFFFF" />
+  </g>
+</svg>
